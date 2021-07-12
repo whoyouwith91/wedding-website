@@ -187,14 +187,14 @@ $(document).ready(function () {
             title: "Ram and Antara's Wedding",
 
             // Event start date
-            start: new Date('Nov 27, 2017 10:00'),
+            start: new Date('Aug 16, 2021 14:00'),
 
             // Event duration (IN MINUTES)
             // duration: 120,
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('Nov 29, 2017 00:00'),
+            end: new Date('Aug 16, 2021 14:00'),
 
             // Event Address
             address: 'ITC Fortune Park Hotel, Kolkata',
